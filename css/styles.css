@@ -137,7 +137,7 @@ body {
 }
 
 /* header */
-
+/* 
 .header-page {
   display: flex;
   align-items: center;
@@ -206,7 +206,7 @@ body {
 
 .border {
   border: 1px solid #ececec;
-}
+} */
 
 /* hero */
 
@@ -868,7 +868,6 @@ body {
 }
 
 .backdrop.is-hidden {
-  /* visibility: hidden; */
   opacity: 0;
   pointer-events: none;
 }
@@ -1094,10 +1093,4 @@ body {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
-/* цвет основного текста: #212121;
-вторичный цвет текста:#757575 ;
-цвет h1:#FFFFFF;
-цвет контактов в футере: #FFFFFF99 ? 60%   rgba(255, 255, 255, 0.6);
-акцент: #2196f3;
-цвет фона: #ffffff;
-цвет торичного фона: #f5f4fa; */
+
